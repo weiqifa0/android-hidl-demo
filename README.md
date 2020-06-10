@@ -1,5 +1,6 @@
 # android-hidl-demo
 # 系统修改
+```
 weiqifa@bsp-ubuntu1804:~/mt8167s-9.0-sdk$ git status .
 On branch ruying-dev
 Your branch is up to date with 'origin/romdev-001'.
@@ -91,3 +92,4 @@ hardware/interfaces/naruto/
 
 3 directories, 9 files
 weiqifa@bsp-ubuntu1804:~/mt8167s-9.0-sdk$
+```
