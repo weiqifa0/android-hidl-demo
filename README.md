@@ -93,3 +93,6 @@ hardware/interfaces/naruto/
 3 directories, 9 files
 weiqifa@bsp-ubuntu1804:~/mt8167s-9.0-sdk$
 ```
+
+# 具体流程
+关注微信公众号- 嵌入式Linux
