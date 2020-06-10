@@ -1,0 +1,5 @@
+package android.hardware.naruto@1.0;
+
+interface INaruto {
+    helloWorld(string name) generates (string result);
+};
